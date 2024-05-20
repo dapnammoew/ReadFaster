@@ -56,12 +56,12 @@ body {
   gap: 5px;
 }
 
-.logo .icon {
+.logo .arrow {
   border: 1px solid #333;
   border-radius: 50%;
   line-height: 50px;
   color: #ff6600;
-  background-color: #333;
+  background-color: #a9a9a9;
   width: 30px;
   height: 30px;
   display: flex;
