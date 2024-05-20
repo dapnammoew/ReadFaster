@@ -57,7 +57,7 @@ body {
 }
 
 .logo .arrow {
-  border: 1px solid #333;
+  border: 1px solid transparent;
   border-radius: 50%;
   line-height: 50px;
   color: #ff6600;
